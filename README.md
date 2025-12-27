@@ -20,5 +20,5 @@ This project follows the MIT License, the same as the original source.
 3. Open the project using Visual Studio 2022 (recommended)
 4. Run the project from main.cpp
 
-A short demo video is included inside the folder
+A short demo video 🔗: https://drive.google.com/file/d/178cVNIY4D-xgKP_5f4WFYamNPbEeGW3s/view?usp=sharing
 🙌 Huge thanks to PardCode for the original tutorial and open-source learning material.
